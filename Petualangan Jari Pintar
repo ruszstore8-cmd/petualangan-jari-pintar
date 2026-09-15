@@ -1,0 +1,21 @@
+# Petualangan Jari Pintar — Web Game
+
+Versi prototipe siap dimainkan di browser.
+
+## Menjalankan
+1. Buka `index.html` di Chrome/Edge/Firefox.
+2. Bisa dimainkan dengan mouse di laptop dan sentuhan di HP/tablet.
+3. Progres disimpan otomatis di localStorage browser.
+
+## Fitur
+- 8 dunia permainan.
+- Tracing garis, bentuk, angka, huruf.
+- Game ulat dan mobil.
+- Hubungkan titik dan lengkapi gambar.
+- Toleransi tracing agar ramah anak TK.
+- Bintang dan permata.
+- Dashboard Guru/Orang Tua.
+- Tidak ada pembelian dalam game.
+
+## Pengembangan berikutnya
+Untuk produksi, tambahkan backend/login guru, database progres per anak, audio narasi, 50 level terkurasi, aset karakter/animasi, PWA/offline, serta ekspor laporan.
